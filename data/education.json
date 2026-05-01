@@ -1,0 +1,25 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "school": "Concordia University Wisconsin",
+      "institution": "Concordia University Wisconsin",
+      "period": "December 2025",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Data Analytics – Specialty",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "Databricks Certified Data Engineer Associate",
+      "issuer": "Databricks"
+    }
+  ]
+}

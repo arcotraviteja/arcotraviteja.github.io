@@ -1,0 +1,69 @@
+{
+  "_instructions": "Organize your skills into categories. Each category has a name, icon, and list of skills.",
+  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "Python",
+        "SQL",
+        "PySpark",
+        "Scala (Basic)",
+        "Bash / Shell Scripting"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        "Apache Spark",
+        "Apache Airflow",
+        "dbt",
+        "MLflow",
+        "Spark Structured Streaming"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        "Databricks",
+        "Apache Kafka",
+        "Snowflake",
+        "Amazon Redshift",
+        "Google BigQuery",
+        "PostgreSQL",
+        "MySQL",
+        "AWS (S3, Glue, Redshift, Lambda)",
+        "Microsoft Azure (Data Factory, Data Lake, Synapse Analytics)",
+        "Google Cloud Platform (BigQuery, Cloud Storage)",
+        "Docker",
+        "Jenkins",
+        "Git",
+        "GitHub",
+        "Jupyter Notebook",
+        "Visual Studio Code",
+        "Linux / Unix Environment",
+        "Postman"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Data Engineering",
+        "Big Data Technologies",
+        "Data Warehousing",
+        "Databases",
+        "Data Orchestration",
+        "ETL Tools",
+        "Cloud Platforms",
+        "AI / Machine Learning Data Engineering",
+        "DevOps & Infrastructure",
+        "Data Quality & Governance"
+      ]
+    }
+  ]
+}

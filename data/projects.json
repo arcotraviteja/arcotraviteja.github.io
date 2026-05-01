@@ -1,0 +1,211 @@
+{
+  "_instructions": "Add your professional projects.",
+  "sectionTitle": "Portfolio",
+  "subtitle": "Featured professional projects",
+  "projects": [
+    {
+      "title": "AI Training Dataset Pipeline & Monitoring Platform",
+      "description": "Built PySpark pipelines on Databricks to preprocess NLP training datasets stored in AWS S3. Implemented Kafka and Spark Structured Streaming ingestion pipelines to capture interaction signals. Developed MLflow-integrated feature engineering workflows enabling dataset version tracking.",
+      "longDescription": "Built PySpark pipelines on Databricks to preprocess NLP training datasets stored in AWS S3. Implemented Kafka and Spark Structured Streaming ingestion pipelines to capture interaction signals. Developed MLflow-integrated feature engineering workflows enabling dataset version tracking.",
+      "category": "Data Science",
+      "technologies": [
+        "PySpark",
+        "Databricks",
+        "AWS S3",
+        "Kafka",
+        "Spark Structured Streaming",
+        "MLflow"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "Cloud Financial Data Warehouse & Reporting Automation",
+      "description": "Developed incremental ETL pipelines using Apache Airflow and PySpark to ingest financial transaction datasets into cloud data warehouses. Modeled dimensional schemas in Snowflake and Amazon Redshift. Implemented CDC ingestion pipelines from PostgreSQL sources.",
+      "longDescription": "Developed incremental ETL pipelines using Apache Airflow and PySpark to ingest financial transaction datasets into cloud data warehouses. Modeled dimensional schemas in Snowflake and Amazon Redshift. Implemented CDC ingestion pipelines from PostgreSQL sources.",
+      "category": "Data Science",
+      "technologies": [
+        "Apache Airflow",
+        "PySpark",
+        "Snowflake",
+        "Amazon Redshift",
+        "CDC",
+        "PostgreSQL"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "uber-expenses-tracking",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/arcotraviteja/uber-expenses-tracking",
+      "demo": "https://github.com/arcotraviteja/uber-expenses-tracking",
+      "links": {
+        "github": "https://github.com/arcotraviteja/uber-expenses-tracking",
+        "demo": "https://github.com/arcotraviteja/uber-expenses-tracking",
+        "live": "https://github.com/arcotraviteja/uber-expenses-tracking"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "cohort_analysis",
+      "description": "Practice repository for exploring advanced features",
+      "longDescription": "Practice repository for exploring advanced features",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/arcotraviteja/cohort_analysis",
+      "demo": "https://github.com/arcotraviteja/cohort_analysis",
+      "links": {
+        "github": "https://github.com/arcotraviteja/cohort_analysis",
+        "demo": "https://github.com/arcotraviteja/cohort_analysis",
+        "live": "https://github.com/arcotraviteja/cohort_analysis"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "log-analysis-anomaly-detection",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/arcotraviteja/log-analysis-anomaly-detection",
+      "demo": "https://github.com/arcotraviteja/log-analysis-anomaly-detection",
+      "links": {
+        "github": "https://github.com/arcotraviteja/log-analysis-anomaly-detection",
+        "demo": "https://github.com/arcotraviteja/log-analysis-anomaly-detection",
+        "live": "https://github.com/arcotraviteja/log-analysis-anomaly-detection"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "healthcare-data-analysis-using-powerbi",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi",
+      "demo": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi",
+      "links": {
+        "github": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi",
+        "demo": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi",
+        "live": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "nursing-home-financial-analysis",
+      "description": "Personal project for exploring modern development practices",
+      "longDescription": "Personal project for exploring modern development practices",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/arcotraviteja/nursing-home-financial-analysis",
+      "demo": "https://github.com/arcotraviteja/nursing-home-financial-analysis",
+      "links": {
+        "github": "https://github.com/arcotraviteja/nursing-home-financial-analysis",
+        "demo": "https://github.com/arcotraviteja/nursing-home-financial-analysis",
+        "live": "https://github.com/arcotraviteja/nursing-home-financial-analysis"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    }
+  ]
+}

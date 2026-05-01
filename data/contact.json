@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Let's Create Something Amazing",
+  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "email": "arcotravi90@gmail.com",
+  "location": "Wisconsin, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raviteja-a/",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:arcotravi90@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "AI Data Engineer",
+      "company": "Hugging Face",
+      "period": "Dec 2024 – Feb 2026",
+      "location": "",
+      "description": "Developed and maintained distributed PySpark pipelines on Databricks and AWS S3 to process large-scale NLP training datasets used in machine learning experimentation workflows. Built real-time ingestion pipelines using Apache Kafka and Spark Structured Streaming to capture user interaction signals for analytics dashboards and model monitoring systems. Developed and optimized dbt transformation models for Snowflake and Google BigQuery, orchestrated using Apache Airflow DAGs. Implemented Python-based feature engineering pipelines integrated with MLflow experiment tracking. Maintained batch ingestion pipelines using AWS Glue jobs and REST API integrations. Collaborated with machine learning engineers and data scientists to standardize dataset schemas and validation checks. Supported data quality monitoring and schema validation frameworks.",
+      "responsibilities": [
+        "Developed and maintained distributed PySpark pipelines on Databricks and AWS S3 to process large-scale NLP training datasets used in machine learning experimentation workflows",
+        "Built real-time ingestion pipelines using Apache Kafka and Spark Structured Streaming to capture user interaction signals for analytics dashboards and model monitoring systems",
+        "Developed and optimized dbt transformation models for Snowflake and Google BigQuery, orchestrated using Apache Airflow DAGs",
+        "Implemented Python-based feature engineering pipelines integrated with MLflow experiment tracking",
+        "Maintained batch ingestion pipelines using AWS Glue jobs and REST API integrations",
+        "Collaborated with machine learning engineers and data scientists to standardize dataset schemas and validation checks",
+        "Supported data quality monitoring and schema validation frameworks"
+      ]
+    },
+    {
+      "title": "AI Data Engineer",
+      "company": "Mphasis",
+      "period": "Jul 2022 – Nov 2023",
+      "location": "",
+      "description": "Developed distributed ETL pipelines using PySpark and Apache Spark on Databricks with Azure Data Lake, processing high-volume financial transaction datasets. Implemented incremental ingestion pipelines orchestrated with Apache Airflow, applying CDC-based extraction from PostgreSQL systems. Designed dimensional warehouse schemas in Amazon Redshift and Snowflake. Built dbt transformation pipelines to standardize SQL transformations. Containerized data transformation services using Docker and implemented automated deployments using Jenkins CI/CD pipelines integrated with GitHub. Optimized Spark transformations and SQL queries to improve pipeline performance. Implemented data validation checks and monitoring mechanisms.",
+      "responsibilities": [
+        "Developed distributed ETL pipelines using PySpark and Apache Spark on Databricks with Azure Data Lake, processing high-volume financial transaction datasets",
+        "Implemented incremental ingestion pipelines orchestrated with Apache Airflow, applying CDC-based extraction from PostgreSQL systems",
+        "Designed dimensional warehouse schemas in Amazon Redshift and Snowflake",
+        "Built dbt transformation pipelines to standardize SQL transformations",
+        "Containerized data transformation services using Docker and implemented automated deployments using Jenkins CI/CD pipelines integrated with GitHub",
+        "Optimized Spark transformations and SQL queries to improve pipeline performance",
+        "Implemented data validation checks and monitoring mechanisms"
+      ]
+    },
+    {
+      "title": "Associate Data Engineer",
+      "company": "Freshworks",
+      "period": "Mar 2021 – Jun 2022",
+      "location": "",
+      "description": "Developed Python and SQL ETL pipelines to ingest SaaS application usage data into MySQL and Google BigQuery data warehouses. Supported Apache Spark batch transformation pipelines to process semi-structured JSON telemetry data. Configured and maintained Apache Airflow DAGs for scheduled ingestion workflows with monitoring alerts and retry mechanisms. Investigated PostgreSQL query performance bottlenecks and implemented indexing strategies. Assisted in implementing data validation checks and schema enforcement rules.",
+      "responsibilities": [
+        "Developed Python and SQL ETL pipelines to ingest SaaS application usage data into MySQL and Google BigQuery data warehouses",
+        "Supported Apache Spark batch transformation pipelines to process semi-structured JSON telemetry data",
+        "Configured and maintained Apache Airflow DAGs for scheduled ingestion workflows with monitoring alerts and retry mechanisms",
+        "Investigated PostgreSQL query performance bottlenecks and implemented indexing strategies",
+        "Assisted in implementing data validation checks and schema enforcement rules"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "_instructions": "About section content - tell your professional story and showcase key metrics.",
+  "sectionTitle": "About Me",
+  "content": [
+    "AI Data Engineer with 4+ years of experience building scalable batch and real-time data pipelines using Python, PySpark, Apache Spark, Kafka, and Apache Airflow across AWS, Azure, and GCP cloud environments. Experienced in developing distributed ETL/ELT pipelines, streaming data ingestion systems, and large-scale data processing workflows to support analytics and machine learning applications. Strong hands-on experience working with cloud data warehouses including Snowflake, Amazon Redshift, and",
+    "Google BigQuery, applying dimensional modeling and SQL optimization techniques to improve analytics performance. Skilled in implementing incremental data ingestion and CDC-based pipelines orchestrated with Apache Airflow and dbt, improving data freshness, reliability, and pipeline efficiency. Experienced in supporting machine learning data workflows including feature engineering, dataset preparation, MLflow experiment tracking, and dataset versioning to enable reproducible model experimentation"
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "title": "3+",
+      "description": "Companies"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "title": "2+",
+      "description": "Projects"
+    },
+    {
+      "icon": "fas fa-code",
+      "title": "10+",
+      "description": "Skills"
+    }
+  ]
+}
