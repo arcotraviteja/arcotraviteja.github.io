@@ -1,58 +1,25 @@
 {
   "_instructions": "Hero section content.",
-  "greeting": "Hello, I'm",
+  "greeting": "Hi there, I'm",
   "name": "Ravi Teja A",
   "title": "AI Data Engineer",
-  "summary": "AI Data Engineer with 3+ years of experience specializing in Python, SQL, PySpark.",
-  "avatarUrl": "/avatar.png",
-  "tagline": "AI Data Engineer",
+  "tagline": "Building scalable data & ML pipelines that turn raw signals into reliable intelligence.",
+  "description": "4+ years shipping batch and real-time pipelines on AWS, Azure, and GCP — PySpark, Kafka, Airflow, dbt, and Snowflake/Redshift/BigQuery powering analytics and ML at scale.",
   "stats": [
-    {
-      "label": "Years Experience",
-      "value": "3+",
-      "icon": "fas fa-briefcase"
-    },
-    {
-      "label": "Projects Completed",
-      "value": "2+",
-      "icon": "fas fa-project-diagram"
-    },
-    {
-      "label": "Certifications",
-      "value": "2+",
-      "icon": "fas fa-certificate"
-    }
+    { "value": "4+",  "label": "Years Experience", "icon": "fas fa-briefcase" },
+    { "value": "10+", "label": "Pipelines Shipped", "icon": "fas fa-stream" },
+    { "value": "3",   "label": "Cloud Platforms",  "icon": "fas fa-cloud" },
+    { "value": "2",   "label": "Certifications",   "icon": "fas fa-certificate" }
   ],
   "cta": {
     "buttons": [
-      {
-        "text": "Get In Touch",
-        "href": "#contact",
-        "type": "primary",
-        "external": false
-      },
-      {
-        "text": "View Portfolio",
-        "href": "#projects",
-        "type": "secondary",
-        "external": false
-      }
+      { "text": "Get In Touch",   "href": "#contact",    "type": "primary",   "external": false },
+      { "text": "View Experience","href": "#experience", "type": "secondary", "external": false }
     ]
   },
   "socialLinks": [
-    {
-      "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/in/raviteja-a/",
-      "icon": "fab fa-linkedin"
-    },
-    {
-      "platform": "Email",
-      "url": "mailto:arcotravi90@gmail.com",
-      "icon": "fas fa-envelope"
-    }
-  ],
-  "scrollIndicator": {
-    "text": "Scroll to discover more",
-    "icon": "fas fa-chevron-down"
-  }
+    { "platform": "GitHub",   "url": "https://github.com/arcotraviteja",      "icon": "fab fa-github" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/raviteja-a/","icon": "fab fa-linkedin-in" },
+    { "platform": "Email",    "url": "mailto:arcotravi90@gmail.com",          "icon": "fas fa-envelope" }
+  ]
 }

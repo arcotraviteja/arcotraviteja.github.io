@@ -1,25 +1,29 @@
 {
-  "_instructions": "Add your education and certifications here.",
+  "_instructions": "Education and certifications.",
   "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
   "education": [
     {
-      "degree": "Master of Science",
+      "degree": "Master of Science in Computer Science",
       "school": "Concordia University Wisconsin",
-      "institution": "Concordia University Wisconsin",
-      "period": "December 2025",
-      "details": "",
-      "description": ""
+      "location": "Wisconsin, USA",
+      "period": "Graduated December 2025",
+      "logo": "",
+      "logoFallback": "🎓",
+      "description": "Coursework spanning distributed systems, machine learning, and data engineering."
     }
   ],
   "certifications": [
     {
       "name": "AWS Certified Data Analytics – Specialty",
-      "issuer": "Amazon Web Services (AWS)"
+      "issuer": "Amazon Web Services",
+      "logo": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
+      "icon": "fab fa-aws"
     },
     {
       "name": "Databricks Certified Data Engineer Associate",
-      "issuer": "Databricks"
+      "issuer": "Databricks",
+      "logo": "https://cdn.simpleicons.org/databricks/FF3621",
+      "icon": "fas fa-database"
     }
   ]
 }

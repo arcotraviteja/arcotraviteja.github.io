@@ -1,11 +1,10 @@
 {
-  "_instructions": "Footer content - copyright and social links.",
-  "text": "Designed & Built by Ravi Teja A",
-  "copyright": "© 2026 All rights reserved.",
+  "_instructions": "Footer content.",
+  "text": "Designed & built by Ravi Teja A · Made with caffeine and a lot of stack traces.",
+  "copyright": "© 2026 Ravi Teja A. All rights reserved.",
   "links": [
-    {
-      "text": "LinkedIn",
-      "url": "https://www.linkedin.com/in/raviteja-a/"
-    }
+    { "text": "GitHub",   "url": "https://github.com/arcotraviteja" },
+    { "text": "LinkedIn", "url": "https://www.linkedin.com/in/raviteja-a/" },
+    { "text": "Email",    "url": "mailto:arcotravi90@gmail.com" }
   ]
 }

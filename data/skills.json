@@ -1,69 +1,46 @@
 {
-  "_instructions": "Organize your skills into categories. Each category has a name, icon, and list of skills.",
-  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
-  "sectionTitle": "Skills & Technologies",
+  "_instructions": "Skills grouped by category. 'icon' uses Font Awesome.",
+  "sectionTitle": "Skills & Tooling",
   "categories": [
     {
-      "category": "Programming Languages",
+      "category": "Languages & Query",
       "icon": "fas fa-code",
-      "skills": [
-        "Python",
-        "SQL",
-        "PySpark",
-        "Scala (Basic)",
-        "Bash / Shell Scripting"
-      ]
+      "skills": ["Python", "SQL", "PySpark", "Scala", "Bash"]
     },
     {
-      "category": "Frameworks & Libraries",
-      "icon": "fas fa-toolbox",
-      "skills": [
-        "Apache Spark",
-        "Apache Airflow",
-        "dbt",
-        "MLflow",
-        "Spark Structured Streaming"
-      ]
+      "category": "Data Engineering",
+      "icon": "fas fa-stream",
+      "skills": ["Apache Spark", "Databricks", "Apache Kafka", "Spark Structured Streaming", "Batch Processing", "Distributed Pipelines"]
     },
     {
-      "category": "Tools & Platforms",
-      "icon": "fas fa-wrench",
-      "skills": [
-        "Databricks",
-        "Apache Kafka",
-        "Snowflake",
-        "Amazon Redshift",
-        "Google BigQuery",
-        "PostgreSQL",
-        "MySQL",
-        "AWS (S3, Glue, Redshift, Lambda)",
-        "Microsoft Azure (Data Factory, Data Lake, Synapse Analytics)",
-        "Google Cloud Platform (BigQuery, Cloud Storage)",
-        "Docker",
-        "Jenkins",
-        "Git",
-        "GitHub",
-        "Jupyter Notebook",
-        "Visual Studio Code",
-        "Linux / Unix Environment",
-        "Postman"
-      ]
+      "category": "Warehouses & Databases",
+      "icon": "fas fa-database",
+      "skills": ["Snowflake", "Amazon Redshift", "Google BigQuery", "PostgreSQL", "MySQL", "Dimensional Modeling", "Query Optimization"]
     },
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-laptop-code",
-      "skills": [
-        "Data Engineering",
-        "Big Data Technologies",
-        "Data Warehousing",
-        "Databases",
-        "Data Orchestration",
-        "ETL Tools",
-        "Cloud Platforms",
-        "AI / Machine Learning Data Engineering",
-        "DevOps & Infrastructure",
-        "Data Quality & Governance"
-      ]
+      "category": "Orchestration & ETL",
+      "icon": "fas fa-project-diagram",
+      "skills": ["Apache Airflow", "dbt", "ETL / ELT", "Incremental Ingestion", "Change Data Capture"]
+    },
+    {
+      "category": "Cloud Platforms",
+      "icon": "fas fa-cloud",
+      "skills": ["AWS (S3, Glue, Redshift, Lambda)", "Azure (Data Factory, Data Lake, Synapse)", "GCP (BigQuery, Cloud Storage)"]
+    },
+    {
+      "category": "ML Data Engineering",
+      "icon": "fas fa-robot",
+      "skills": ["Feature Engineering", "ML Dataset Preparation", "MLflow", "Dataset Versioning", "ML Pipeline Development"]
+    },
+    {
+      "category": "DevOps & Tooling",
+      "icon": "fas fa-cogs",
+      "skills": ["Docker", "CI/CD", "Git", "GitHub", "Jenkins", "Linux", "VS Code", "Jupyter", "Postman"]
+    },
+    {
+      "category": "Quality & Governance",
+      "icon": "fas fa-shield-alt",
+      "skills": ["Data Validation", "Quality Monitoring", "Metadata Management", "Schema Enforcement"]
     }
   ]
 }

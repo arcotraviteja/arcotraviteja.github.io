@@ -1,25 +1,14 @@
 {
-  "_instructions": "About section content - tell your professional story and showcase key metrics.",
-  "sectionTitle": "About Me",
+  "_instructions": "About section content.",
+  "sectionTitle": "About",
   "content": [
-    "AI Data Engineer with 4+ years of experience building scalable batch and real-time data pipelines using Python, PySpark, Apache Spark, Kafka, and Apache Airflow across AWS, Azure, and GCP cloud environments. Experienced in developing distributed ETL/ELT pipelines, streaming data ingestion systems, and large-scale data processing workflows to support analytics and machine learning applications. Strong hands-on experience working with cloud data warehouses including Snowflake, Amazon Redshift, and",
-    "Google BigQuery, applying dimensional modeling and SQL optimization techniques to improve analytics performance. Skilled in implementing incremental data ingestion and CDC-based pipelines orchestrated with Apache Airflow and dbt, improving data freshness, reliability, and pipeline efficiency. Experienced in supporting machine learning data workflows including feature engineering, dataset preparation, MLflow experiment tracking, and dataset versioning to enable reproducible model experimentation"
+    "I'm an AI Data Engineer with 4+ years building distributed batch and real-time data pipelines that power analytics and machine learning workloads. I've shipped systems on AWS, Azure, and GCP using PySpark, Apache Spark, Kafka, and Airflow — moving from raw, messy sources into clean, queryable warehouses on Snowflake, Redshift, and BigQuery.",
+    "Lately I've been focused on the data layer that ML teams actually depend on: feature engineering pipelines, dataset versioning with MLflow, schema validation, and CDC-based ingestion that keeps things fresh without full reloads. I care a lot about reproducibility, data quality, and pipelines that don't wake people up at 3 AM."
   ],
   "highlights": [
-    {
-      "icon": "fas fa-briefcase",
-      "title": "3+",
-      "description": "Companies"
-    },
-    {
-      "icon": "fas fa-project-diagram",
-      "title": "2+",
-      "description": "Projects"
-    },
-    {
-      "icon": "fas fa-code",
-      "title": "10+",
-      "description": "Skills"
-    }
+    { "icon": "fas fa-database",  "title": "Data Warehousing", "description": "Snowflake · Redshift · BigQuery with dimensional modeling and SQL tuning." },
+    { "icon": "fas fa-bolt",       "title": "Streaming",        "description": "Kafka + Spark Structured Streaming for real-time ingestion and ML monitoring." },
+    { "icon": "fas fa-cloud",      "title": "Multi-Cloud",      "description": "AWS, Azure, and GCP — Glue, Data Factory, BigQuery, Lambda, Synapse." },
+    { "icon": "fas fa-robot",      "title": "ML Data Layer",    "description": "Feature engineering, MLflow tracking, dataset versioning for reproducible models." }
   ]
 }

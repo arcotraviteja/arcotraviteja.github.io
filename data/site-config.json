@@ -1,10 +1,10 @@
 {
-  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "_instructions": "Site-wide configuration and meta tags.",
   "meta": {
-    "title": "Ravi Teja A | AI Data Engineer",
-    "description": "Ravi Teja A - AI Data Engineer | Portfolio",
+    "title": "Ravi Teja A · AI Data Engineer",
+    "description": "AI Data Engineer with 4+ years building scalable batch and real-time data pipelines on AWS, Azure, and GCP — PySpark, Kafka, Airflow, dbt, Snowflake, BigQuery.",
     "author": "Ravi Teja A",
-    "keywords": "AI Data Engineer, Portfolio, Ravi Teja A"
+    "keywords": "AI Data Engineer, Data Engineering, PySpark, Snowflake, Airflow, dbt, Portfolio, Ravi Teja A"
   },
   "branding": {
     "name": "Ravi Teja A",

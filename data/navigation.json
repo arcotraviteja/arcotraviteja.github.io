@@ -1,37 +1,15 @@
 {
-  "_instructions": "Navigation menu configuration. Add/remove/reorder menu items as needed.",
+  "_instructions": "Navigation menu. Items must match section IDs in index.html.",
   "brand": {
-    "name": "Ravi Teja A",
-    "href": "#home"
+    "name": "Ravi Teja",
+    "href": "#hero"
   },
   "menuItems": [
-    {
-      "text": "Home",
-      "href": "#home"
-    },
-    {
-      "text": "About",
-      "href": "#about"
-    },
-    {
-      "text": "Experience",
-      "href": "#experience"
-    },
-    {
-      "text": "Skills",
-      "href": "#skills"
-    },
-    {
-      "text": "Projects",
-      "href": "#projects"
-    },
-    {
-      "text": "Education",
-      "href": "#education"
-    },
-    {
-      "text": "Contact",
-      "href": "#contact"
-    }
+    { "text": "About",      "href": "#about" },
+    { "text": "Experience", "href": "#experience" },
+    { "text": "Skills",     "href": "#skills" },
+    { "text": "Projects",   "href": "#projects" },
+    { "text": "Education",  "href": "#education" },
+    { "text": "Contact",    "href": "#contact" }
   ]
 }
