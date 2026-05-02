@@ -6,8 +6,20 @@
   "location": "Wisconsin, USA",
   "availability": "Open to opportunities",
   "socialLinks": [
-    { "platform": "GitHub",   "url": "https://github.com/arcotraviteja",        "icon": "fab fa-github" },
-    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/raviteja-a/", "icon": "fab fa-linkedin-in" },
-    { "platform": "Email",    "url": "mailto:arcotravi90@gmail.com",            "icon": "fas fa-envelope" }
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/arcotraviteja",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ravi-a-300b553b4/?isSelfProfile=false",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:arcotravi90@gmail.com",
+      "icon": "fas fa-envelope"
+    }
   ]
 }
