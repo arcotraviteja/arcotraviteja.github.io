@@ -6,20 +6,58 @@
   "tagline": "Building scalable data & ML pipelines that turn raw signals into reliable intelligence.",
   "description": "4+ years shipping batch and real-time pipelines on AWS, Azure, and GCP — PySpark, Kafka, Airflow, dbt, and Snowflake/Redshift/BigQuery powering analytics and ML at scale.",
   "stats": [
-    { "value": "4+",  "label": "Years Experience", "icon": "fas fa-briefcase" },
-    { "value": "10+", "label": "Pipelines Shipped", "icon": "fas fa-stream" },
-    { "value": "3",   "label": "Cloud Platforms",  "icon": "fas fa-cloud" },
-    { "value": "2",   "label": "Certifications",   "icon": "fas fa-certificate" }
+    {
+      "value": "4+",
+      "label": "Years Experience",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "value": "10+",
+      "label": "Pipelines Shipped",
+      "icon": "fas fa-stream"
+    },
+    {
+      "value": "3",
+      "label": "Cloud Platforms",
+      "icon": "fas fa-cloud"
+    },
+    {
+      "value": "2",
+      "label": "Certifications",
+      "icon": "fas fa-certificate"
+    }
   ],
   "cta": {
     "buttons": [
-      { "text": "Get In Touch",   "href": "#contact",    "type": "primary",   "external": false },
-      { "text": "View Experience","href": "#experience", "type": "secondary", "external": false }
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View Experience",
+        "href": "#experience",
+        "type": "secondary",
+        "external": false
+      }
     ]
   },
   "socialLinks": [
-    { "platform": "GitHub",   "url": "https://github.com/arcotraviteja",      "icon": "fab fa-github" },
-    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/raviteja-a/","icon": "fab fa-linkedin-in" },
-    { "platform": "Email",    "url": "mailto:arcotravi90@gmail.com",          "icon": "fas fa-envelope" }
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/arcotraviteja",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ravi-a-300b553b4/?isSelfProfile=false",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:arcotravi90@gmail.com",
+      "icon": "fas fa-envelope"
+    }
   ]
 }
