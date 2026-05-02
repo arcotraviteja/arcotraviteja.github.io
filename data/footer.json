@@ -3,8 +3,17 @@
   "text": "Designed & built by Ravi Teja A · Made with caffeine and a lot of stack traces.",
   "copyright": "© 2026 Ravi Teja A. All rights reserved.",
   "links": [
-    { "text": "GitHub",   "url": "https://github.com/arcotraviteja" },
-    { "text": "LinkedIn", "url": "https://www.linkedin.com/in/raviteja-a/" },
-    { "text": "Email",    "url": "mailto:arcotravi90@gmail.com" }
+    {
+      "text": "GitHub",
+      "url": "https://github.com/arcotraviteja"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ravi-a-300b553b4/?isSelfProfile=false"
+    },
+    {
+      "text": "Email",
+      "url": "mailto:arcotravi90@gmail.com"
+    }
   ]
 }
