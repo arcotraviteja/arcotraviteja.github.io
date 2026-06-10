@@ -2,27 +2,27 @@
   "_instructions": "Hero section content.",
   "greeting": "Hi there, I'm",
   "name": "Ravi Teja A",
-  "title": "AI Data Engineer",
-  "tagline": "Building scalable data & ML pipelines that turn raw signals into reliable intelligence.",
-  "description": "4+ years shipping batch and real-time pipelines on AWS, Azure, and GCP — PySpark, Kafka, Airflow, dbt, and Snowflake/Redshift/BigQuery powering analytics and ML at scale.",
+  "title": "Analytics Engineer",
+  "tagline": "Turning marketing and performance data into clear, decision-ready stories.",
+  "description": "4+ years building scalable analytics frameworks, self-service Tableau & Power BI dashboards, and test-and-learn measurement across lifecycle marketing, email/SMS, and fundraising — powered by SQL, dbt, and Snowflake.",
   "stats": [
     {
       "value": "4+",
-      "label": "Years Experience",
+      "label": "Years in Analytics",
       "icon": "fas fa-briefcase"
     },
     {
-      "value": "10+",
-      "label": "Pipelines Shipped",
-      "icon": "fas fa-stream"
+      "value": "40%",
+      "label": "Fewer Ad Hoc Reports",
+      "icon": "fas fa-chart-line"
+    },
+    {
+      "value": "25%",
+      "label": "Lower Compute Cost",
+      "icon": "fas fa-bolt"
     },
     {
       "value": "3",
-      "label": "Cloud Platforms",
-      "icon": "fas fa-cloud"
-    },
-    {
-      "value": "2",
       "label": "Certifications",
       "icon": "fas fa-certificate"
     }

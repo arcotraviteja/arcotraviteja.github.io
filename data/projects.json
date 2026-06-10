@@ -1,52 +1,25 @@
 {
   "_instructions": "Projects shown in the Projects section.",
   "sectionTitle": "Projects",
-  "subtitle": "Selected work and personal projects",
+  "subtitle": "Selected analytics work and personal projects",
   "projects": [
     {
-      "title": "AI Training Dataset Pipeline & Monitoring Platform",
-      "description": "PySpark pipelines on Databricks preprocessing NLP training datasets in S3, Kafka + Spark Structured Streaming for real-time interaction signals, and MLflow-integrated feature engineering for reproducible experiments.",
-      "category": "ML Data Platform",
-      "technologies": ["PySpark", "Databricks", "AWS S3", "Kafka", "Spark Streaming", "MLflow"],
-      "icon": "fas fa-brain",
+      "title": "Email & SMS Performance Analytics Framework",
+      "description": "A comprehensive measurement framework for email and SMS/text channel performance — metric definitions, experimentation design, and test-and-learn evaluation. Tableau dashboards and scorecards let marketing stakeholders self-serve insights across open rates, conversion, and lifecycle engagement, while automated data-quality monitoring cut manual validation effort by 50%.",
+      "category": "Marketing Analytics",
+      "technologies": ["dbt", "Snowflake", "Tableau", "SQL", "Python"],
+      "icon": "fas fa-envelope-open-text",
       "featured": true,
       "links": { "github": "", "demo": "" }
     },
     {
-      "title": "Cloud Financial Data Warehouse & Reporting Automation",
-      "description": "Incremental Airflow + PySpark ETL ingesting financial transactions into cloud warehouses, dimensional schemas in Snowflake and Redshift, and CDC ingestion from PostgreSQL replacing full refreshes.",
-      "category": "Data Warehouse",
-      "technologies": ["Apache Airflow", "PySpark", "Snowflake", "Amazon Redshift", "PostgreSQL CDC"],
-      "icon": "fas fa-warehouse",
+      "title": "Modern Analytics Engineering Platform",
+      "description": "End-to-end analytics engineering platform from ingestion to reporting, delivering analytics-ready datasets for KPI reporting, executive dashboards, and BI. Built on Kimball dimensional modeling with staging, intermediate, and mart layers — plus automated testing and data-lineage documentation.",
+      "category": "Analytics Engineering",
+      "technologies": ["dbt", "Snowflake", "Apache Airflow", "Python", "AWS"],
+      "icon": "fas fa-diagram-project",
       "featured": true,
       "links": { "github": "", "demo": "" }
-    },
-    {
-      "title": "Uber Expenses Tracking",
-      "description": "End-to-end pipeline analyzing Uber trip and expense data — ingestion, cleaning, and visualization in Python notebooks.",
-      "category": "Data Analysis",
-      "technologies": ["Python", "Jupyter", "Pandas"],
-      "icon": "fas fa-car",
-      "featured": false,
-      "links": { "github": "https://github.com/arcotraviteja/uber-expenses-tracking", "demo": "https://github.com/arcotraviteja/uber-expenses-tracking" }
-    },
-    {
-      "title": "Cohort Analysis",
-      "description": "Customer cohort and retention analysis exploring behavioral patterns over time using Python and visualization libraries.",
-      "category": "Analytics",
-      "technologies": ["Python", "Jupyter", "Pandas"],
-      "icon": "fas fa-users",
-      "featured": false,
-      "links": { "github": "https://github.com/arcotraviteja/cohort_analysis", "demo": "https://github.com/arcotraviteja/cohort_analysis" }
-    },
-    {
-      "title": "Log Analysis & Anomaly Detection",
-      "description": "Python pipeline for parsing application logs and surfacing anomalies using statistical and ML-based techniques.",
-      "category": "ML / Observability",
-      "technologies": ["Python", "ML"],
-      "icon": "fas fa-search",
-      "featured": false,
-      "links": { "github": "https://github.com/arcotraviteja/log-analysis-anomaly-detection", "demo": "https://github.com/arcotraviteja/log-analysis-anomaly-detection" }
     },
     {
       "title": "Healthcare Data Analysis (Power BI)",
@@ -58,6 +31,15 @@
       "links": { "github": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi", "demo": "https://github.com/arcotraviteja/healthcare-data-analysis-using-powerbi" }
     },
     {
+      "title": "Cohort Analysis",
+      "description": "Customer cohort and retention analysis exploring behavioral patterns over time using Python and visualization libraries.",
+      "category": "Analytics",
+      "technologies": ["Python", "Jupyter", "Pandas"],
+      "icon": "fas fa-users",
+      "featured": false,
+      "links": { "github": "https://github.com/arcotraviteja/cohort_analysis", "demo": "https://github.com/arcotraviteja/cohort_analysis" }
+    },
+    {
       "title": "Nursing Home Financial Analysis",
       "description": "Financial trend and ratio analysis on nursing home data — building reporting views and surfacing operational insights.",
       "category": "Financial Analytics",
@@ -65,6 +47,24 @@
       "icon": "fas fa-hospital",
       "featured": false,
       "links": { "github": "https://github.com/arcotraviteja/nursing-home-financial-analysis", "demo": "https://github.com/arcotraviteja/nursing-home-financial-analysis" }
+    },
+    {
+      "title": "Uber Expenses Tracking",
+      "description": "End-to-end pipeline analyzing Uber trip and expense data — ingestion, cleaning, and visualization in Python notebooks.",
+      "category": "Data Analysis",
+      "technologies": ["Python", "Jupyter", "Pandas"],
+      "icon": "fas fa-car",
+      "featured": false,
+      "links": { "github": "https://github.com/arcotraviteja/uber-expenses-tracking", "demo": "https://github.com/arcotraviteja/uber-expenses-tracking" }
+    },
+    {
+      "title": "Log Analysis & Anomaly Detection",
+      "description": "Python pipeline for parsing application logs and surfacing anomalies using statistical and ML-based techniques.",
+      "category": "ML / Observability",
+      "technologies": ["Python", "ML"],
+      "icon": "fas fa-search",
+      "featured": false,
+      "links": { "github": "https://github.com/arcotraviteja/log-analysis-anomaly-detection", "demo": "https://github.com/arcotraviteja/log-analysis-anomaly-detection" }
     }
   ]
 }

@@ -2,13 +2,13 @@
   "_instructions": "About section content.",
   "sectionTitle": "About",
   "content": [
-    "I'm an AI Data Engineer with 4+ years building distributed batch and real-time data pipelines that power analytics and machine learning workloads. I've shipped systems on AWS, Azure, and GCP using PySpark, Apache Spark, Kafka, and Airflow — moving from raw, messy sources into clean, queryable warehouses on Snowflake, Redshift, and BigQuery.",
-    "Lately I've been focused on the data layer that ML teams actually depend on: feature engineering pipelines, dataset versioning with MLflow, schema validation, and CDC-based ingestion that keeps things fresh without full reloads. I care a lot about reproducibility, data quality, and pipelines that don't wake people up at 3 AM."
+    "I'm an Analytics Engineer with 4+ years turning marketing and development data into measurement frameworks, self-service dashboards, and recommendations stakeholders can actually act on. I've built KPI reporting, experimentation and test-and-learn programs, and lifecycle marketing analytics across email, SMS/text, and fundraising channels.",
+    "On the data side I work in SQL (Snowflake, Redshift, BigQuery, MSSQL, PostgreSQL), Python, and dbt — building analytics-ready datasets, automated data-quality testing, and dimensional models that downstream BI and CRM teams depend on. I care about metric definitions everyone trusts, dashboards people actually self-serve, and analysis that translates cleanly for both technical and non-technical audiences."
   ],
   "highlights": [
-    { "icon": "fas fa-database",  "title": "Data Warehousing", "description": "Snowflake · Redshift · BigQuery with dimensional modeling and SQL tuning." },
-    { "icon": "fas fa-bolt",       "title": "Streaming",        "description": "Kafka + Spark Structured Streaming for real-time ingestion and ML monitoring." },
-    { "icon": "fas fa-cloud",      "title": "Multi-Cloud",      "description": "AWS, Azure, and GCP — Glue, Data Factory, BigQuery, Lambda, Synapse." },
-    { "icon": "fas fa-robot",      "title": "ML Data Layer",    "description": "Feature engineering, MLflow tracking, dataset versioning for reproducible models." }
+    { "icon": "fas fa-chart-bar", "title": "BI & Visualization", "description": "Tableau, Power BI & Adobe Analytics — self-service dashboards, scorecards, and data storytelling." },
+    { "icon": "fas fa-flask", "title": "Experimentation", "description": "A/B testing, test-and-learn frameworks, and experimentation design for channel performance." },
+    { "icon": "fas fa-bullhorn", "title": "Lifecycle Marketing", "description": "Email & SMS/text performance analytics with Salesforce Marketing Cloud and CRM/CDP platforms." },
+    { "icon": "fas fa-database", "title": "Data & SQL", "description": "Snowflake, Redshift & BigQuery with dbt, dimensional modeling, and SQL optimization." }
   ]
 }

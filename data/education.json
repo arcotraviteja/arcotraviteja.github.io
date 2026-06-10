@@ -3,13 +3,22 @@
   "sectionTitle": "Education & Certifications",
   "education": [
     {
-      "degree": "Master of Science in Computer Science",
+      "degree": "M.S. in Computer Science",
       "school": "Concordia University Wisconsin",
       "location": "Wisconsin, USA",
-      "period": "Graduated December 2025",
+      "period": "Jan 2024 – Dec 2025",
       "logo": "",
       "logoFallback": "🎓",
-      "description": "Coursework spanning distributed systems, machine learning, and data engineering."
+      "description": "Graduate coursework spanning data engineering, machine learning, and distributed systems."
+    },
+    {
+      "degree": "B.Tech in Computer Science",
+      "school": "Vijya Jyothi Institute of Technology",
+      "location": "India",
+      "period": "Aug 2019 – May 2023",
+      "logo": "",
+      "logoFallback": "🎓",
+      "description": "Foundations in computer science, databases, and software engineering."
     }
   ],
   "certifications": [
@@ -24,6 +33,12 @@
       "issuer": "Databricks",
       "logo": "https://cdn.simpleicons.org/databricks/FF3621",
       "icon": "fas fa-database"
+    },
+    {
+      "name": "dbt Fundamentals",
+      "issuer": "dbt Labs",
+      "logo": "https://cdn.simpleicons.org/dbt/FF694B",
+      "icon": "fas fa-cube"
     }
   ]
 }

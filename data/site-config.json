@@ -1,14 +1,14 @@
 {
   "_instructions": "Site-wide configuration and meta tags.",
   "meta": {
-    "title": "Ravi Teja A · AI Data Engineer",
-    "description": "AI Data Engineer with 4+ years building scalable batch and real-time data pipelines on AWS, Azure, and GCP — PySpark, Kafka, Airflow, dbt, Snowflake, BigQuery.",
+    "title": "Ravi Teja A · Analytics Engineer",
+    "description": "Analytics Engineer with 4+ years in marketing and development analytics, performance measurement, and data storytelling — building self-service Tableau & Power BI dashboards and test-and-learn frameworks on SQL, dbt, and Snowflake.",
     "author": "Ravi Teja A",
-    "keywords": "AI Data Engineer, Data Engineering, PySpark, Snowflake, Airflow, dbt, Portfolio, Ravi Teja A"
+    "keywords": "Analytics Engineer, Marketing Analytics, Performance Measurement, Tableau, Power BI, dbt, Snowflake, SQL, Data Storytelling, Experimentation, Portfolio, Ravi Teja A"
   },
   "branding": {
     "name": "Ravi Teja A",
-    "tagline": "AI Data Engineer"
+    "tagline": "Analytics Engineer"
   },
   "settings": {
     "year": 2026,

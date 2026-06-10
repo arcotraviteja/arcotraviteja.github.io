@@ -1,48 +1,50 @@
 {
   "_instructions": "Work experience timeline. 'logo' uses simpleicons.org or Google's favicon service.",
   "sectionTitle": "Experience",
-  "subtitle": "Where I've built things",
+  "subtitle": "Where I've measured what matters",
   "experiences": [
     {
-      "title": "AI Data Engineer",
-      "company": "Hugging Face",
-      "companyUrl": "https://huggingface.co",
-      "logo": "https://cdn.simpleicons.org/huggingface/FFD21E",
-      "logoFallback": "🤗",
-      "accentColor": "#FFD21E",
-      "period": "Dec 2024 – Feb 2026",
-      "location": "Remote, USA",
+      "title": "Analytics Engineer — Development",
+      "company": "One Park Financial",
+      "companyUrl": "https://www.oneparkfinancial.com",
+      "logo": "https://www.google.com/s2/favicons?domain=oneparkfinancial.com&sz=128",
+      "logoFallback": "1P",
+      "accentColor": "#1B998B",
+      "period": "Aug 2025 – Present",
+      "location": "USA",
       "responsibilities": [
-        "Developed distributed PySpark pipelines on Databricks and AWS S3 to process large-scale NLP training datasets for ML experimentation workflows.",
-        "Built real-time ingestion using Apache Kafka and Spark Structured Streaming to capture user interaction signals for analytics dashboards and model monitoring.",
-        "Designed dbt transformation models on Snowflake and BigQuery, orchestrated via Airflow DAGs — improving transformation reliability and warehouse query performance.",
-        "Implemented Python feature-engineering pipelines integrated with MLflow tracking to support reproducible ML experiments.",
-        "Maintained batch ingestion via AWS Glue and REST API integrations, landing external datasets into S3 and downstream warehouses.",
-        "Partnered with ML engineers and data scientists to standardize dataset schemas, metadata, and validation checks."
+        "Designed and executed analytics projects measuring email campaign performance, SMS/text channel effectiveness, and lifecycle marketing KPIs, delivering data-driven insights to executive and marketing stakeholders.",
+        "Established measurement frameworks — metric definitions, experimentation design, and test-and-learn methodologies — to evaluate fundraising and marketing channel performance.",
+        "Built self-service Tableau and Power BI dashboards enabling stakeholders to monitor operational and financial KPIs, reducing ad hoc reporting requests by 40%.",
+        "Served as analytics subject matter expert for data teams, translating complex business questions into scalable solutions using SQL (Snowflake), Python, and dbt.",
+        "Developed automated data-quality testing and validation frameworks, improving trust in business-critical reporting across loan performance, customer acquisition, and revenue metrics.",
+        "Optimized Snowflake warehouse performance through query tuning, clustering strategies, and transformation efficiencies, reducing compute costs by 25%.",
+        "Built AI-ready and analytics-ready datasets supporting predictive analytics, customer segmentation, and campaign audience strategies."
       ],
-      "tech": ["PySpark", "Databricks", "AWS S3", "Kafka", "Spark Streaming", "dbt", "Snowflake", "BigQuery", "Airflow", "MLflow", "AWS Glue"]
+      "tech": ["SQL", "Snowflake", "Python", "dbt", "Tableau", "Power BI", "Salesforce Marketing Cloud", "A/B Testing"]
     },
     {
-      "title": "AI Data Engineer",
-      "company": "Mphasis",
-      "companyUrl": "https://www.mphasis.com",
-      "logo": "https://www.google.com/s2/favicons?domain=mphasis.com&sz=128",
-      "logoFallback": "🅼",
-      "accentColor": "#E31E24",
+      "title": "Data Engineer (Analytics Focus)",
+      "company": "Capital One",
+      "companyUrl": "https://www.capitalone.com",
+      "logo": "https://www.google.com/s2/favicons?domain=capitalone.com&sz=128",
+      "logoFallback": "C1",
+      "accentColor": "#D03027",
       "period": "Jul 2022 – Nov 2023",
       "location": "India",
       "responsibilities": [
-        "Built distributed ETL pipelines using PySpark and Spark on Databricks with Azure Data Lake, processing high-volume financial transaction datasets.",
-        "Implemented incremental ingestion with Airflow and CDC-based extraction from PostgreSQL, improving data freshness and eliminating costly full reloads.",
-        "Designed dimensional warehouse schemas in Amazon Redshift and Snowflake, enabling scalable reporting pipelines.",
-        "Authored dbt transformation pipelines to standardize SQL transformations across the warehouse.",
-        "Containerized transformation services with Docker and shipped via Jenkins CI/CD integrated with GitHub.",
-        "Tuned Spark jobs and SQL queries to cut pipeline runtime and reduce failures via validation and monitoring checks."
+        "Built enterprise-scale data pipelines and analytics solutions processing millions of customer, transaction, and marketing records to support performance reporting and channel analytics.",
+        "Developed dimensional data models and data marts supporting marketing analytics, business intelligence, and experimentation measurement across multiple business domains.",
+        "Implemented Change Data Capture (CDC) pipelines improving data freshness for real-time performance dashboards and reporting.",
+        "Designed and maintained Tableau and Power BI dashboards consumed by marketing and operations stakeholders for performance tracking and decision-making.",
+        "Applied intermediate-to-advanced SQL (MSSQL, Redshift, Snowflake) to develop performance reports, audience segmentation queries, and ad hoc analyses supporting strategy teams.",
+        "Implemented automated data-quality monitoring, reconciliation, and auditing processes improving analytical data reliability across business-critical datasets.",
+        "Leveraged AWS (S3, Glue, Lambda, Redshift, Athena, CloudWatch) to build and maintain cloud-native analytics infrastructure supporting scalable reporting."
       ],
-      "tech": ["PySpark", "Databricks", "Azure Data Lake", "Airflow", "CDC", "PostgreSQL", "Redshift", "Snowflake", "dbt", "Docker", "Jenkins"]
+      "tech": ["SQL", "MSSQL", "Redshift", "Snowflake", "Tableau", "Power BI", "CDC", "AWS (S3, Glue, Athena)", "Dimensional Modeling"]
     },
     {
-      "title": "Associate Data Engineer",
+      "title": "Junior Data Engineer",
       "company": "Freshworks",
       "companyUrl": "https://www.freshworks.com",
       "logo": "https://www.google.com/s2/favicons?domain=freshworks.com&sz=128",
@@ -51,13 +53,14 @@
       "period": "Mar 2021 – Jun 2022",
       "location": "India",
       "responsibilities": [
-        "Developed Python and SQL ETL pipelines ingesting SaaS application usage data into MySQL and BigQuery for internal analytics.",
-        "Supported Apache Spark batch transformations on semi-structured JSON telemetry generated by application services.",
-        "Configured and maintained Airflow DAGs for scheduled ingestion with monitoring alerts and retry logic to keep pipelines stable.",
-        "Investigated PostgreSQL query bottlenecks and added indexing strategies that improved reporting performance.",
-        "Helped stand up data validation checks and schema enforcement rules across analytics datasets."
+        "Developed SQL and Python-based ETL pipelines supporting SaaS product analytics, lifecycle marketing reporting, and executive dashboards.",
+        "Built reporting datasets and KPI scorecards consumed by BI teams using Tableau and Power BI, improving visibility into product and operational performance.",
+        "Utilized Azure Data Factory (ADF), ADLS, and Azure SQL Database to orchestrate automated data workflows and analytics pipelines.",
+        "Implemented data validation checks, schema enforcement, and reconciliation processes improving reliability and accuracy of marketing and operational analytics.",
+        "Collaborated with analysts, product teams, and business users to translate requirements into scalable analytics solutions.",
+        "Optimized SQL queries and dashboard refresh performance, reducing report generation time by 30%."
       ],
-      "tech": ["Python", "SQL", "Apache Spark", "Airflow", "MySQL", "BigQuery", "PostgreSQL"]
+      "tech": ["SQL", "Python", "Tableau", "Power BI", "Azure Data Factory", "ADLS", "Azure SQL"]
     }
   ]
 }

@@ -3,44 +3,39 @@
   "sectionTitle": "Skills & Tooling",
   "categories": [
     {
-      "category": "Languages & Query",
-      "icon": "fas fa-code",
-      "skills": ["Python", "SQL", "PySpark", "Scala", "Bash"]
+      "category": "Analytics & Measurement",
+      "icon": "fas fa-chart-line",
+      "skills": ["Email & SMS/Text Performance Analytics", "Lifecycle Marketing Analytics", "Experimentation Design", "A/B Testing", "KPI Reporting", "Metric Definition", "Test-and-Learn Frameworks", "Fundraising Analytics"]
     },
     {
-      "category": "Data Engineering",
-      "icon": "fas fa-stream",
-      "skills": ["Apache Spark", "Databricks", "Apache Kafka", "Spark Structured Streaming", "Batch Processing", "Distributed Pipelines"]
+      "category": "BI & Visualization",
+      "icon": "fas fa-chart-bar",
+      "skills": ["Tableau", "Power BI", "Adobe Analytics", "Dashboard Development", "Data Storytelling", "Self-Service Analytics", "Scorecards", "Forecasting Tools"]
     },
     {
-      "category": "Warehouses & Databases",
+      "category": "CRM & Marketing Platforms",
+      "icon": "fas fa-bullhorn",
+      "skills": ["Salesforce Marketing Cloud", "Hustle", "Mobile Commons", "CRM / CDP Platforms"]
+    },
+    {
+      "category": "Data & SQL",
       "icon": "fas fa-database",
-      "skills": ["Snowflake", "Amazon Redshift", "Google BigQuery", "PostgreSQL", "MySQL", "Dimensional Modeling", "Query Optimization"]
+      "skills": ["SQL", "MSSQL", "Snowflake", "Redshift", "PostgreSQL", "BigQuery", "Python", "dbt", "Data Modeling", "ETL / ELT Pipelines"]
     },
     {
-      "category": "Orchestration & ETL",
-      "icon": "fas fa-project-diagram",
-      "skills": ["Apache Airflow", "dbt", "ETL / ELT", "Incremental Ingestion", "Change Data Capture"]
-    },
-    {
-      "category": "Cloud Platforms",
+      "category": "Data Prep & Cloud",
       "icon": "fas fa-cloud",
-      "skills": ["AWS (S3, Glue, Redshift, Lambda)", "Azure (Data Factory, Data Lake, Synapse)", "GCP (BigQuery, Cloud Storage)"]
+      "skills": ["Tableau Prep", "Alteryx", "Apache Airflow", "Databricks", "AWS S3", "AWS Glue", "AWS Lambda", "Athena", "CloudWatch"]
     },
     {
-      "category": "ML Data Engineering",
-      "icon": "fas fa-robot",
-      "skills": ["Feature Engineering", "ML Dataset Preparation", "MLflow", "Dataset Versioning", "ML Pipeline Development"]
+      "category": "Office & Productivity",
+      "icon": "fas fa-file-excel",
+      "skills": ["Microsoft Excel (Advanced)", "Microsoft Access", "Microsoft PowerPoint"]
     },
     {
-      "category": "DevOps & Tooling",
-      "icon": "fas fa-cogs",
-      "skills": ["Docker", "CI/CD", "Git", "GitHub", "Jenkins", "Linux", "VS Code", "Jupyter", "Postman"]
-    },
-    {
-      "category": "Quality & Governance",
-      "icon": "fas fa-shield-alt",
-      "skills": ["Data Validation", "Quality Monitoring", "Metadata Management", "Schema Enforcement"]
+      "category": "Methodologies",
+      "icon": "fas fa-sitemap",
+      "skills": ["Agile / Scrum", "Data Governance", "Data Stewardship", "Cross-Functional Collaboration", "Matrixed Organization"]
     }
   ]
 }
