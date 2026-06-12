@@ -1,20 +1,11 @@
 {
   "_instructions": "Projects shown in the Projects section.",
   "sectionTitle": "Projects",
-  "subtitle": "Selected analytics work and personal projects",
+  "subtitle": "Selected analytics engineering and data projects",
   "projects": [
     {
-      "title": "Email & SMS Performance Analytics Framework",
-      "description": "A comprehensive measurement framework for email and SMS/text channel performance — metric definitions, experimentation design, and test-and-learn evaluation. Tableau dashboards and scorecards let marketing stakeholders self-serve insights across open rates, conversion, and lifecycle engagement, while automated data-quality monitoring cut manual validation effort by 50%.",
-      "category": "Marketing Analytics",
-      "technologies": ["dbt", "Snowflake", "Tableau", "SQL", "Python"],
-      "icon": "fas fa-envelope-open-text",
-      "featured": true,
-      "links": { "github": "", "demo": "" }
-    },
-    {
       "title": "Modern Analytics Engineering Platform",
-      "description": "End-to-end analytics engineering platform from ingestion to reporting, delivering analytics-ready datasets for KPI reporting, executive dashboards, and BI. Built on Kimball dimensional modeling with staging, intermediate, and mart layers — plus automated testing and data-lineage documentation.",
+      "description": "A complete analytics engineering platform from ingestion to reporting using dbt, Snowflake, and Airflow. Developed staging, intermediate, and mart-layer models following industry-standard architecture, with automated testing, documentation, lineage tracking, and data quality monitoring delivering analytics-ready datasets for KPI reporting, executive dashboards, and business intelligence.",
       "category": "Analytics Engineering",
       "technologies": ["dbt", "Snowflake", "Apache Airflow", "Python", "AWS"],
       "icon": "fas fa-diagram-project",
@@ -22,8 +13,26 @@
       "links": { "github": "", "demo": "" }
     },
     {
+      "title": "AI Training Dataset Pipeline & Monitoring Platform",
+      "description": "Scalable AI training data pipelines supporting NLP and LLM model development. Built Kafka and Spark Structured Streaming pipelines for real-time AI telemetry ingestion, feature engineering and dataset versioning frameworks for reproducible machine learning workflows, MLflow for experiment tracking and lifecycle management, and monitoring and validation frameworks that improve AI dataset quality and consistency.",
+      "category": "AI / ML Data Platforms",
+      "technologies": ["PySpark", "Databricks", "Kafka", "MLflow", "AWS S3"],
+      "icon": "fas fa-robot",
+      "featured": true,
+      "links": { "github": "", "demo": "" }
+    },
+    {
+      "title": "Email & SMS Performance Analytics Framework",
+      "description": "A comprehensive measurement framework for email and SMS/text channel performance covering metric definitions, experimentation design, and test-and-learn evaluation. Tableau dashboards and scorecards let stakeholders self-serve insights across open rates, conversion, and lifecycle engagement, while automated data-quality monitoring cut manual validation effort by 50%.",
+      "category": "Marketing Analytics",
+      "technologies": ["dbt", "Snowflake", "Tableau", "SQL", "Python"],
+      "icon": "fas fa-envelope-open-text",
+      "featured": false,
+      "links": { "github": "", "demo": "" }
+    },
+    {
       "title": "Healthcare Data Analysis (Power BI)",
-      "description": "Power BI dashboards exploring healthcare KPIs — patient outcomes, throughput, and operational metrics.",
+      "description": "Power BI dashboards exploring healthcare KPIs across patient outcomes, throughput, and operational metrics.",
       "category": "Business Intelligence",
       "technologies": ["Power BI", "SQL"],
       "icon": "fas fa-heartbeat",
@@ -41,7 +50,7 @@
     },
     {
       "title": "Nursing Home Financial Analysis",
-      "description": "Financial trend and ratio analysis on nursing home data — building reporting views and surfacing operational insights.",
+      "description": "Financial trend and ratio analysis on nursing home data, building reporting views and surfacing operational insights.",
       "category": "Financial Analytics",
       "technologies": ["SQL", "Python", "BI"],
       "icon": "fas fa-hospital",
@@ -50,7 +59,7 @@
     },
     {
       "title": "Uber Expenses Tracking",
-      "description": "End-to-end pipeline analyzing Uber trip and expense data — ingestion, cleaning, and visualization in Python notebooks.",
+      "description": "End-to-end pipeline analyzing Uber trip and expense data, covering ingestion, cleaning, and visualization in Python notebooks.",
       "category": "Data Analysis",
       "technologies": ["Python", "Jupyter", "Pandas"],
       "icon": "fas fa-car",

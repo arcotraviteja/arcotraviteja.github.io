@@ -1,8 +1,8 @@
 {
   "profile": {
-    "name": "Ravi Teja A",
+    "name": "Ravi Teja Arcot",
     "title": "Analytics Engineer",
-    "bio": "Data and analytics professional with 4+ years of experience in marketing and development analytics, performance measurement, and data-driven storytelling. I build scalable analytics frameworks, self-service dashboards in Tableau and Power BI, and experimentation/test-and-learn measurement methodologies. My work spans lifecycle marketing analytics, email and SMS/text performance measurement, CRM platforms including Salesforce Marketing Cloud, and SQL-based data analysis across Snowflake, Redshift, and BigQuery. I translate complex analytical insights into clear, actionable recommendations for both technical and non-technical stakeholders, driving measurable improvements in fundraising and marketing channel performance."
+    "bio": "Analytics Engineer and Data Engineer with 4+ years of experience building modern data platforms, analytics solutions, and cloud-based data pipelines using dbt, Snowflake, Python, SQL, Airflow, Databricks, Spark, Kafka, AWS, and Azure. I design scalable ETL/ELT pipelines, dimensional data models, and analytics-ready datasets that power executive reporting, financial analytics, self-service BI, and machine learning initiatives. My focus is data warehousing, cloud analytics, data governance, and data quality across the modern data stack, delivering trusted data solutions that both technical and business stakeholders rely on."
   },
   "contact": {
     "email": "arcotravi90@gmail.com",
@@ -12,7 +12,7 @@
   },
   "siteConfig": {
     "domain": "raviteja.tech",
-    "title": "Ravi Teja A - Portfolio",
-    "description": "Analytics Engineer with 4+ years of experience in marketing and development analytics, performance measurement, and data-driven storytelling — building scalable analytics frameworks, self-service Tableau and Power BI dashboards, and experimentation/test-and-learn measurement methodologies across Snowflake, Redshift, and BigQuery."
+    "title": "Ravi Teja Arcot - Portfolio",
+    "description": "Analytics Engineer and Data Engineer with 4+ years building modern data platforms, scalable ETL/ELT pipelines, dimensional data models, and analytics-ready datasets using dbt, Snowflake, Python, SQL, Airflow, Spark, Kafka, AWS, and Azure."
   }
 }

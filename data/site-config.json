@@ -1,13 +1,13 @@
 {
   "_instructions": "Site-wide configuration and meta tags.",
   "meta": {
-    "title": "Ravi Teja A · Analytics Engineer",
-    "description": "Analytics Engineer with 4+ years in marketing and development analytics, performance measurement, and data storytelling — building self-service Tableau & Power BI dashboards and test-and-learn frameworks on SQL, dbt, and Snowflake.",
-    "author": "Ravi Teja A",
-    "keywords": "Analytics Engineer, Marketing Analytics, Performance Measurement, Tableau, Power BI, dbt, Snowflake, SQL, Data Storytelling, Experimentation, Portfolio, Ravi Teja A"
+    "title": "Ravi Teja Arcot · Analytics Engineer",
+    "description": "Analytics Engineer and Data Engineer with 4+ years building modern data platforms, scalable ETL/ELT pipelines, dimensional data models, and analytics-ready datasets on dbt, Snowflake, Python, SQL, Airflow, Spark, Kafka, AWS, and Azure.",
+    "author": "Ravi Teja Arcot",
+    "keywords": "Analytics Engineer, Data Engineer, dbt, Snowflake, Airflow, Apache Spark, Kafka, Databricks, ETL, ELT, Dimensional Modeling, Data Warehousing, Data Governance, AWS, Azure, Python, SQL, Portfolio, Ravi Teja Arcot"
   },
   "branding": {
-    "name": "Ravi Teja A",
+    "name": "Ravi Teja Arcot",
     "tagline": "Analytics Engineer"
   },
   "settings": {

@@ -1,30 +1,34 @@
 {
   "_instructions": "Work experience timeline. 'logo' uses simpleicons.org or Google's favicon service.",
   "sectionTitle": "Experience",
-  "subtitle": "Where I've measured what matters",
+  "subtitle": "Building modern data platforms and analytics solutions",
   "experiences": [
     {
-      "title": "Analytics Engineer — Development",
+      "title": "Analytics Engineer",
       "company": "One Park Financial",
       "companyUrl": "https://www.oneparkfinancial.com",
       "logo": "https://www.google.com/s2/favicons?domain=oneparkfinancial.com&sz=128",
       "logoFallback": "1P",
       "accentColor": "#1B998B",
       "period": "Aug 2025 – Present",
-      "location": "USA",
+      "location": "Remote, USA",
       "responsibilities": [
-        "Designed and executed analytics projects measuring email campaign performance, SMS/text channel effectiveness, and lifecycle marketing KPIs, delivering data-driven insights to executive and marketing stakeholders.",
-        "Established measurement frameworks — metric definitions, experimentation design, and test-and-learn methodologies — to evaluate fundraising and marketing channel performance.",
-        "Built self-service Tableau and Power BI dashboards enabling stakeholders to monitor operational and financial KPIs, reducing ad hoc reporting requests by 40%.",
-        "Served as analytics subject matter expert for data teams, translating complex business questions into scalable solutions using SQL (Snowflake), Python, and dbt.",
-        "Developed automated data-quality testing and validation frameworks, improving trust in business-critical reporting across loan performance, customer acquisition, and revenue metrics.",
-        "Optimized Snowflake warehouse performance through query tuning, clustering strategies, and transformation efficiencies, reducing compute costs by 25%.",
-        "Built AI-ready and analytics-ready datasets supporting predictive analytics, customer segmentation, and campaign audience strategies."
+        "Architected and developed Analytics Engineering solutions using dbt, Snowflake, SQL, Python, and Apache Airflow to support financial reporting, lending analytics, operational reporting, and executive dashboards.",
+        "Designed and implemented scalable staging, intermediate, and mart-layer dbt models following medallion or Kimball architecture based on requirement.",
+        "Developed reusable dbt macros, testing frameworks, documentation, and lineage processes to improve data quality and governance.",
+        "Built analytics-ready datasets supporting loan performance analysis, customer acquisition metrics, funding operations, revenue reporting, and KPI tracking.",
+        "Designed dimensional data models including fact and dimension tables supporting business intelligence and self-service analytics.",
+        "Partnered with finance, operations, and executive stakeholders to translate business requirements into scalable analytical solutions.",
+        "Implemented automated testing, reconciliation, and validation frameworks improving trust in business-critical reporting.",
+        "Optimized Snowflake warehouse performance through query tuning, clustering, and efficient transformation strategies.",
+        "Developed Power BI dashboards enabling executive teams to monitor operational and financial performance.",
+        "Built AI-ready datasets supporting predictive analytics, customer intelligence, and machine learning initiatives.",
+        "Utilized AWS services including S3, Glue, Lambda, CloudWatch, and Athena to support cloud-based analytics infrastructure."
       ],
-      "tech": ["SQL", "Snowflake", "Python", "dbt", "Tableau", "Power BI", "Salesforce Marketing Cloud", "A/B Testing"]
+      "tech": ["dbt", "Snowflake", "SQL", "Python", "Apache Airflow", "Power BI", "AWS (S3, Glue, Lambda, Athena)"]
     },
     {
-      "title": "Data Engineer (Analytics Focus)",
+      "title": "Data Engineer",
       "company": "Capital One",
       "companyUrl": "https://www.capitalone.com",
       "logo": "https://www.google.com/s2/favicons?domain=capitalone.com&sz=128",
@@ -33,15 +37,20 @@
       "period": "Jul 2022 – Nov 2023",
       "location": "India",
       "responsibilities": [
-        "Built enterprise-scale data pipelines and analytics solutions processing millions of customer, transaction, and marketing records to support performance reporting and channel analytics.",
-        "Developed dimensional data models and data marts supporting marketing analytics, business intelligence, and experimentation measurement across multiple business domains.",
-        "Implemented Change Data Capture (CDC) pipelines improving data freshness for real-time performance dashboards and reporting.",
-        "Designed and maintained Tableau and Power BI dashboards consumed by marketing and operations stakeholders for performance tracking and decision-making.",
-        "Applied intermediate-to-advanced SQL (MSSQL, Redshift, Snowflake) to develop performance reports, audience segmentation queries, and ad hoc analyses supporting strategy teams.",
-        "Implemented automated data-quality monitoring, reconciliation, and auditing processes improving analytical data reliability across business-critical datasets.",
-        "Leveraged AWS (S3, Glue, Lambda, Redshift, Athena, CloudWatch) to build and maintain cloud-native analytics infrastructure supporting scalable reporting."
+        "Developed enterprise-scale ETL and ELT pipelines using Python, PySpark, Databricks, Kafka, Snowflake, Airflow, and AWS.",
+        "Built scalable ingestion frameworks processing customer, transaction, compliance, risk, and operational datasets.",
+        "Designed and implemented dimensional data models and data marts supporting enterprise reporting and advanced analytics.",
+        "Developed Change Data Capture (CDC) pipelines using Kafka and Airflow to improve reporting freshness and data availability.",
+        "Built Spark-based transformation frameworks processing millions of financial records across multiple business domains.",
+        "Implemented automated data quality monitoring, reconciliation, validation, and auditing processes.",
+        "Optimized Snowflake and Amazon Redshift workloads improving performance and reducing cloud costs.",
+        "Developed scalable data solutions supporting business intelligence, compliance reporting, and customer analytics.",
+        "Collaborated with analysts, data scientists, and business stakeholders to deliver trusted analytics assets.",
+        "Implemented CI/CD pipelines using Docker, Jenkins, Terraform, GitHub Actions, and Git.",
+        "Supported machine learning and predictive analytics initiatives through feature engineering and curated datasets.",
+        "Leveraged AWS services including S3, Glue, Lambda, Redshift, Athena, and CloudWatch to build and maintain cloud-native data platforms."
       ],
-      "tech": ["SQL", "MSSQL", "Redshift", "Snowflake", "Tableau", "Power BI", "CDC", "AWS (S3, Glue, Athena)", "Dimensional Modeling"]
+      "tech": ["Python", "PySpark", "Databricks", "Kafka", "Snowflake", "Redshift", "Airflow", "AWS", "Docker", "Jenkins", "Terraform"]
     },
     {
       "title": "Junior Data Engineer",
@@ -53,14 +62,18 @@
       "period": "Mar 2021 – Jun 2022",
       "location": "India",
       "responsibilities": [
-        "Developed SQL and Python-based ETL pipelines supporting SaaS product analytics, lifecycle marketing reporting, and executive dashboards.",
-        "Built reporting datasets and KPI scorecards consumed by BI teams using Tableau and Power BI, improving visibility into product and operational performance.",
-        "Utilized Azure Data Factory (ADF), ADLS, and Azure SQL Database to orchestrate automated data workflows and analytics pipelines.",
-        "Implemented data validation checks, schema enforcement, and reconciliation processes improving reliability and accuracy of marketing and operational analytics.",
-        "Collaborated with analysts, product teams, and business users to translate requirements into scalable analytics solutions.",
-        "Optimized SQL queries and dashboard refresh performance, reducing report generation time by 30%."
+        "Developed Python and SQL-based ETL pipelines supporting SaaS product analytics and operational reporting.",
+        "Built automated Apache Airflow workflows for ingestion, transformation, scheduling, and monitoring of enterprise datasets.",
+        "Processed structured and semi-structured datasets using SQL and PySpark to support reporting and analytics initiatives.",
+        "Utilized Azure Data Factory (ADF) to orchestrate ETL workflows and automate data movement across systems.",
+        "Developed and maintained datasets within Azure SQL Database and Azure Data Lake Storage (ADLS).",
+        "Built reporting datasets consumed by BI teams for executive dashboards and KPI reporting.",
+        "Implemented data validation checks, schema enforcement rules, and reconciliation processes to improve data reliability.",
+        "Optimized SQL queries and reporting processes improving dashboard performance and refresh times.",
+        "Collaborated with analysts, product teams, and business users to deliver analytics-ready datasets.",
+        "Participated in Agile development, testing, deployment, and production support activities."
       ],
-      "tech": ["SQL", "Python", "Tableau", "Power BI", "Azure Data Factory", "ADLS", "Azure SQL"]
+      "tech": ["Python", "SQL", "PySpark", "Apache Airflow", "Azure Data Factory", "ADLS", "Azure SQL"]
     }
   ]
 }

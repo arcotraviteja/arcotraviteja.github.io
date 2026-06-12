@@ -2,13 +2,13 @@
   "_instructions": "About section content.",
   "sectionTitle": "About",
   "content": [
-    "I'm an Analytics Engineer with 4+ years turning marketing and development data into measurement frameworks, self-service dashboards, and recommendations stakeholders can actually act on. I've built KPI reporting, experimentation and test-and-learn programs, and lifecycle marketing analytics across email, SMS/text, and fundraising channels.",
-    "On the data side I work in SQL (Snowflake, Redshift, BigQuery, MSSQL, PostgreSQL), Python, and dbt — building analytics-ready datasets, automated data-quality testing, and dimensional models that downstream BI and CRM teams depend on. I care about metric definitions everyone trusts, dashboards people actually self-serve, and analysis that translates cleanly for both technical and non-technical audiences."
+    "I'm an Analytics Engineer and Data Engineer with 4+ years building modern data platforms, analytics solutions, and cloud-based data pipelines. I design scalable staging, intermediate, and mart-layer dbt models, dimensional data models, and analytics-ready datasets that support executive reporting, financial analytics, and self-service BI.",
+    "I work across the modern data stack with dbt, Snowflake, Python, SQL, and Airflow, plus Spark, Kafka, and Databricks for big data, on AWS and Azure. I care about data warehousing, data governance, and data quality, building automated testing, reconciliation, and lineage frameworks so the data downstream teams depend on stays trusted and well documented."
   ],
   "highlights": [
-    { "icon": "fas fa-chart-bar", "title": "BI & Visualization", "description": "Tableau, Power BI & Adobe Analytics — self-service dashboards, scorecards, and data storytelling." },
-    { "icon": "fas fa-flask", "title": "Experimentation", "description": "A/B testing, test-and-learn frameworks, and experimentation design for channel performance." },
-    { "icon": "fas fa-bullhorn", "title": "Lifecycle Marketing", "description": "Email & SMS/text performance analytics with Salesforce Marketing Cloud and CRM/CDP platforms." },
-    { "icon": "fas fa-database", "title": "Data & SQL", "description": "Snowflake, Redshift & BigQuery with dbt, dimensional modeling, and SQL optimization." }
+    { "icon": "fas fa-diagram-project", "title": "Analytics Engineering", "description": "dbt models, dimensional modeling, star schema, and data marts with lineage and documentation." },
+    { "icon": "fas fa-arrows-split-up-and-left", "title": "Data Engineering", "description": "Scalable ETL/ELT pipelines, Change Data Capture, and batch processing with Python and PySpark." },
+    { "icon": "fas fa-server", "title": "Big Data & Cloud", "description": "Apache Spark, Kafka, and Databricks on AWS and Azure for high-volume data processing." },
+    { "icon": "fas fa-shield-halved", "title": "Data Quality & Governance", "description": "Automated testing, reconciliation, validation, and lineage that keep business-critical data trusted." }
   ]
 }

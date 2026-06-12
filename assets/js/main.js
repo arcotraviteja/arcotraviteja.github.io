@@ -1,5 +1,5 @@
 // =============================================
-// RAVI TEJA A — PORTFOLIO
+// RAVI TEJA ARCOT - PORTFOLIO
 // =============================================
 
 document.addEventListener('DOMContentLoaded', () => initializeApp());
